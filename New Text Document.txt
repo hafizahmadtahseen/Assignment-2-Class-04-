@@ -1,0 +1,6 @@
+SWITCH IN PROGRAMMING: Alternate to IF ELSE. 
+(The switch statement is useful when you have many possible values to check and you want to avoid writing
+ a long chain of if-else statements. It also makes the code more readable and organized.)
+
+ RETURN IN FUNCTION: The return keyword stops the execution of the function at the point where it is used.
+This means that any code after the return statement will not be run
